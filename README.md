@@ -1,4 +1,4 @@
-#LoKIIT 
+# LoKIIT 
 | React Native | Google Cloud API | Firebase | Project Management | Major Project | 
 The app enables students to track buses in real-time, search routes, and receive schedule notifications, ensuring timely access to university transport services.
 Developed a cross-platform application using React Native, integrating Google Maps API to provide real-time location tracking and route visualization for both drivers and students.
