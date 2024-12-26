@@ -1,5 +1,9 @@
-# Smart-Campus-Transport-App
-Smart Campus Transport | React Native | Firestore | Firebase Auth | Firebase Realtime Database | Major Project 
+#LoKIIT 
+| React Native | Google Cloud API | Firebase | Project Management | Major Project | 
+The app enables students to track buses in real-time, search routes, and receive schedule notifications, ensuring timely access to university transport services.
+Developed a cross-platform application using React Native, integrating Google Maps API to provide real-time location tracking and route visualization for both drivers and students.
+Leveraged Firebase Realtime Database, Firestore, and Firebase Auth for seamless data synchronization, secure user authentication, and scalable backend support.
+
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px;">
